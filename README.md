@@ -12,7 +12,7 @@ The goal is to create a program that plays Rock, Paper, Scissors against four di
 
 ## 🧠 Solution Approach
 
-The solution uses a **Markov Chain** approach inspired by [this Medium article](https://medium.com/%40sri.hartini/rock-paper-scissors-in-python-5173ab69ca7a):
+The solution uses a **Markov Chain** approach with pattern recognition:
 
 ### How It Works
 
@@ -129,11 +129,6 @@ This project demonstrates:
 - **Markov Chains**: Using historical data for prediction
 - **Game Theory**: Developing counter-strategies
 - **Machine Learning**: Adaptive algorithms that learn during gameplay
-
-## 📚 References
-
-- [Rock Paper Scissors in Python - Medium Article](https://medium.com/%40sri.hartini/rock-paper-scissors-in-python-5173ab69ca7a)
-- FreeCodeCamp Machine Learning with Python Certification
 
 ## 🤝 Contributing
 
